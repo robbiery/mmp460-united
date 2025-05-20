@@ -1022,6 +1022,9 @@
   .testimonials__item:hover img {
     opacity:1
   }
+    .testimonials__item blockquote {
+    margin-left:50px;
+  }
   .testimonials__item blockquote p {
     position:relative;
     margin-left:25px
