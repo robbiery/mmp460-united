@@ -1030,7 +1030,7 @@
     top:-5px;
     left:-25px;
     font-size:20px;
-    color:#ffa726
+    color:#794B4B
   }
   .testimonials__item blockquote cite {
     display:block;
@@ -1039,7 +1039,7 @@
     text-transform:uppercase
   }
   .testimonials__item blockquote cite span.name {
-    color:#ffa726
+    color:#794B4B
   }
   .testimonials__item blockquote cite span.role {
     color:#bdc3c7;
@@ -1206,7 +1206,7 @@
     position:relative;
     z-index:100;
     width:100%;
-    background-color:#ffa726;
+    background-color:#794B4B;
     color:#ecf0f1;
     -webkit-box-shadow:0 -2px 2px -1px #2c3e50;
     box-shadow:0 -2px 2px -1px #2c3e50
@@ -1217,7 +1217,7 @@
     top:-30px;
     left:50%;
     margin-left:-40px;
-    border-bottom:40px solid #ffa726;
+    border-bottom:40px solid #794B4B;
     border-left:40px solid transparent;
     border-right:40px solid transparent
   }
